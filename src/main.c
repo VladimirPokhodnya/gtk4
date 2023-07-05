@@ -1,8 +1,3 @@
-/* vim: colorcolumn=80 ts=4 sw=4
- */
-/* main.c:  Boilerplate stub to view our demo widget.
- */
-
 #include "demowidget.h"
 
 static void activate(GtkApplication *app, gpointer user_data) {

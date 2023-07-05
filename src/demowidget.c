@@ -1,5 +1,3 @@
-// vim: colorcolumn=80 ts=4 sw=4
-
 /* This is an extremely simple annotated .c file that implements a custom
  * widget in gtk4 with gobject. All it does is subclasses GtkWidget and creates
  * a widget which is just a button.
